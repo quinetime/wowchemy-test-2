@@ -23,19 +23,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Clarkson University
+    url: https://www.clarkson.edu/honors-program
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Philosophy
+      institution: Rutgers University
+      year: 2013
+    - course: MA in Philosophy
+      institution: Tufts University
+      year: 2006
+    - course: BA in English Literature
+      institution: McGill University
+      year: 2002
 superuser: true
 last_name: Bighetti
 role: Visiting Assistant Professor of the Honors Program
