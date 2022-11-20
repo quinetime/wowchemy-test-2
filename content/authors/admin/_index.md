@@ -1,5 +1,5 @@
 ---
-avatar_filename: clarksonheadshot.jpg
+avatar_filename: avatar.jpg
 bio: Philosopher of mind
 interests:
   - Philosophy
